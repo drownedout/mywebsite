@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'LeagueGothic';
+    src: url('fonts/league_gothic/league_gothic-webfont.eot');
+    src: url('fonts/league_gothic/league_gothic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/league_gothic/league_gothic-webfont.woff') format('woff'),
+         url('fonts/league_gothic/league_gothic-webfont.ttf') format('truetype'),
+         url('fonts/league_gothic/league_gothic-webfont.svg#LeagueGothicRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.navbar {
+	border-radius: 0px;
+	height: 55px;
+}
+
+body {
+	background-color: #F9F9F9;
+	font-family: 'arial'
+}
+
+.container {
+	background-color: white;
+	padding: 25px;
+}
+
+.jumbotron {
+	background-color: #4D4D5D;
+	font-family: 'LeagueGothic', 'arial';
+	text-align: center;
+	color: white;
+}
+
+#right_col {
+	background-color: #00476B;
+	color: white;
+}
+
+#left_col {
+	background-color: #3D5C5C;
+	color: white;
+}
