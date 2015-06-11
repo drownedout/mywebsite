@@ -5,6 +5,7 @@
 	<link rel="stylesheet" type="text/css" href="./css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="./css/flat-ui.css">
 	<link rel="stylesheet" type="text/css" href="./css/index.css">
+	<link rel="stylesheet" type="text/css" href="./css/bootstrap.icon-large.min.css">
 </head>
 <body>
 	<nav class="navbar navbar-inverse" role="navigation">
@@ -12,21 +13,21 @@
 	    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-01">
 	      <span class="sr-only">Toggle navigation</span>
 	    </button>
-	    <a class="navbar-brand" href="#">Flat UI</a>
+	    <a class="navbar-brand" href="#">Home</a>
 	  </div>
 	  <div class="collapse navbar-collapse" id="navbar-collapse-01">
 	    <ul class="nav navbar-nav">
-	      <li><a href="#fakelink">Features</a></li>
-	      <li><a href="#fakelink">Features</a></li>
-	      <li><a href="./photography.html">Photography</a></li>
+	      <li><a href="#">Rails</a></li>
+	      <li><a href="#">Data</a></li>
+	      <li><a href="#">Photography</a></li>
 	    </ul>
-	    <form class="navbar-form navbar-right" action="#" role="search">
+	    <div class="navbar-form navbar-right">
 	      <div class="form-group">
 	        <div class="input-group">
-	          <input class="form-control" id="navbarInput-01" type="search" placeholder="Search">
-	          <span class="input-group-btn">
-	            <button type="submit" class="btn"><span class="fui-search"></span></button>
-	          </span>
+	         <span class="icon-github icon-large"></span>
+	         <span class="icon-facebook icon-large"></span>
+	         <span class="icon-linked-in icon-large"></span> 
+	         <span class="icon-flickr icon-large"></span> 
 	        </div>
 	      </div>
 	    </form>

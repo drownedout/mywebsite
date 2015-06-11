@@ -41,8 +41,8 @@
 			</div>
 	</div>
 <footer>
-<script src="./js/jquery"></script>
-<script type="text/javascript" src="./js/flat-ui.js"></script>
+<script src="./js/jquery.js"></script>
+<script type="text/javascript" src="./js/bootstrap.js"></script>
 </footer>
 </body>
 </html>
