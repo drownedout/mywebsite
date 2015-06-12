@@ -8,7 +8,7 @@
 	<link rel="stylesheet" type="text/css" href="./css/bootstrap.icon-large.min.css">
 </head>
 <body>
-	<nav class="navbar navbar-inverse" role="navigation">
+	<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
 	  <div class="navbar-header">
 	    <a class="navbar-brand" href="#">Home</a>
 	  </div>

@@ -12,11 +12,22 @@
 .navbar {
 	border-radius: 0px;
 	height: 55px;
+	transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+}
+
+.trans {
+	opacity: .4;
+	transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
 }
 
 body {
 	background-color: #5A8F8F;
-	font-family: 'arial'
+	font-family: 'arial';
+	padding-top: 70px;
 }
 
 .dropdown {
