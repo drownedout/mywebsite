@@ -10,14 +10,14 @@
 <body>
 	<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
 	  <div class="navbar-header">
-	    <a class="navbar-brand" href="#">Home</a>
+	    <a class="navbar-brand" href="index.php">Home</a>
 	  </div>
 	  <div class="collapse navbar-collapse" id="navbar-collapse-01">
 	    <ul class="nav navbar-nav">
 	    <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Tutorials <span class="caret"></span></a>
           <ul class="dropdown-menu" role="menu">
-            <li><a href="#">HTML</a></li>
+            <li><a href="./html.php">HTML</a></li>
             <li><a href="#">CSS</a></li>
             <li><a href="#">Ruby</a></li>
             <li class="divider"></li>
