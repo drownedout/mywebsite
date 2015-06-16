@@ -6,18 +6,12 @@
 			</div>
 		</div>
 		<div class="col-md-12" style="border-bottom: 1px solid black">
-			<h4>What is HMTL?</h4>
+			<a href="#"><h4>What is HTML?</h4></a>
 				<p>An introduction to HTML and what makes it so special.</p>
 		</div>
 		<div class="col-md-12" style="border-bottom: 1px solid black">
-			<h4>Tags, tags, and more tags</h4>
+			<a href="#"><h4>Tags, tags, and more tags</h4></a>
 				<p>It's a tutorial dedicated to tags</p>	
 		</div>
 	</div>
-<footer>
-<script src="./js/jquery.js"></script>
-<script type="text/javascript" src="./js/bootstrap.js"></script>
-<script type="text/javascript" src="./js/header.js"></script>
-</footer>
-</body>
-</html>
+<?php include ("./inc/footer.inc.php"); ?>

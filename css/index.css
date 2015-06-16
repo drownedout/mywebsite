@@ -68,9 +68,20 @@ body {
 	text-align: center;
 }
 
-.col-md-4 > img {
+.col-md-4 > a > img {
 	height: 200px;
 	width: 200px;
+	border-radius: 100px;
+	padding: 2px;
+}
+
+.col-md-4 > a > img:hover {
+	height: 202px;
+	width: 202px; 
+	cursor: pointer;
+	transition: width, height .15s linear;
+   -moz-transition: width, height .15s linear;
+   -webkit-transition: width, height .15s linear;
 }
 
 /* make keyframes that tell the start state and the end state of our object */
